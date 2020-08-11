@@ -25,3 +25,6 @@ div.desc{
   height:44px;
   background:url('https://www.w3schools.com/css/img_navsprites.gif') -91px 0;
 }
+a[target]{
+  background-color: yellow;
+}
